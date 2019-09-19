@@ -1,0 +1,33 @@
+html
+
+.topnav {
+  background-color:#F0f8ff ;
+  overflow: hidden;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a.active {
+  color:#181819;
+ background-color: #F0F8FF;
+}
+
+topnav a.hover {
+  color: #fOf8ff;
+  background-color: #f0f8ff;
+}
+
+h1 {
+  padding: 30px;
+}
+
+body {
+  padding: 10px 200px  
+}
